@@ -36,9 +36,7 @@
 ### :zap: Proyectos
 <br />
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://bancosolarsamueljara.herokuapp.com/)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-AJ&repo=github-readme-stats&theme=react" />
-</a>
+<p>https://bancosolarsamueljara.herokuapp.com/<p/>
 
 <br />
 
